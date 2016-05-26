@@ -427,6 +427,7 @@ ModelImporter:
     100838: SmallCogC.005
     100840: SmallCogC.005_end
     100842: SmallCogC_end
+    100844: Cube.006
     400000: B Low res
     400002: //RootNode
     400004: Circle
@@ -849,6 +850,7 @@ ModelImporter:
     400838: SmallCogC.005
     400840: SmallCogC.005_end
     400842: SmallCogC_end
+    400844: Cube.006
     2300000: B Low res
     2300002: Circle
     2300004: Circle.001
@@ -1145,6 +1147,7 @@ ModelImporter:
     2300586: Rotor.016|rotor.small_L_Lib.001|Dupli|0
     2300588: Rotor.017|rotor.small_L_Lib.001|Dupli|0
     2300590: Text.025
+    2300592: Cube.006
     3300000: B Low res
     3300002: Circle
     3300004: Circle.001
@@ -1441,6 +1444,7 @@ ModelImporter:
     3300586: Rotor.016|rotor.small_L_Lib.001|Dupli|0
     3300588: Rotor.017|rotor.small_L_Lib.001|Dupli|0
     3300590: Text.025
+    3300592: Cube.006
     4300000: Circle
     4300002: B Low res
     4300004: Cube.002
@@ -1483,6 +1487,7 @@ ModelImporter:
     4300078: entry wheel.001|entrywheel_L_Lib.001|Dupli|0
     4300080: entry wheel.001|entrywheel.contacts_L_Lib.001|Dupli|1
     4300082: Rotor.008|rotor.small_L_Lib.001|Dupli|0
+    4300084: Cube.006
     7400000: Armature|Cog full rotation
     11100000: //RootNode
   materials:

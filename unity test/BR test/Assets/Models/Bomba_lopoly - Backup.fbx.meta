@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 019eb5bfba9feaa4593479d4ee8888e5
+timeCreated: 1463754685
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: B Low res
+    100004: //RootNode
+    100006: Circle
+    100008: Circle.002
+    100010: Circle.005
+    100012: Circle.006
+    100014: Circle.007
+    100016: Circle.008
+    100018: Circle.009
+    100020: Cylinder
+    100022: Cylinder.001
+    100024: Cylinder.002
+    100026: Cylinder.003
+    100028: Cylinder.004
+    100030: Cylinder.005
+    100032: entry wheel
+    100034: entry wheel.001
+    100036: entry wheel.001|entrywheel.contacts_L_Lib.001|Dupli|1
+    100038: entry wheel.001|entrywheel_L_Lib.001|Dupli|0
+    100040: entry wheel.002
+    100042: entry wheel.002|entrywheel.contacts_L_Lib.001|Dupli|1
+    100044: entry wheel.002|entrywheel_L_Lib.001|Dupli|0
+    100046: entry wheel.003
+    100048: entry wheel.003|entrywheel.contacts_L_Lib.001|Dupli|1
+    100050: entry wheel.003|entrywheel_L_Lib.001|Dupli|0
+    100052: entry wheel.004
+    100054: entry wheel.004|entrywheel.contacts_L_Lib.001|Dupli|1
+    100056: entry wheel.004|entrywheel_L_Lib.001|Dupli|0
+    100058: entry wheel|entrywheel.contacts_L_Lib.001|Dupli|1
+    100060: entry wheel|entrywheel_L_Lib.001|Dupli|0
+    100062: large cog
+    100064: large cog_end
+    100066: Main
+    100068: Reflector
+    100070: Reflector.001
+    100072: Reflector.001|reflector.cover.001_L_Lib.001|Dupli|0
+    100074: Reflector.001|reflector.cover_L_Lib.001|Dupli|3
+    100076: Reflector.001|reflector.pinA_L_Lib.001|Dupli|4
+    100078: Reflector.001|reflector.pinB_L_Lib.001|Dupli|5
+    100080: Reflector.001|reflector.pinC_L_Lib.001|Dupli|6
+    100082: Reflector.001|reflector.pinD_L_Lib.001|Dupli|7
+    100084: Reflector.001|reflector.pinE_L_Lib.001|Dupli|8
+    100086: Reflector.001|reflector.pinF_L_Lib.001|Dupli|9
+    100088: Reflector.001|reflector.pinG_L_Lib.001|Dupli|10
+    100090: Reflector.001|reflector.pinH_L_Lib.001|Dupli|11
+    100092: Reflector.001|reflector.pinI_L_Lib.001|Dupli|12
+    100094: Reflector.001|reflector.pinJ_L_Lib.001|Dupli|13
+    100096: Reflector.001|reflector.pinK_L_Lib.001|Dupli|14
+    100098: Reflector.001|reflector.pinL_L_Lib.001|Dupli|15
+    100100: Reflector.001|reflector.pinM_L_Lib.001|Dupli|16
+    100102: Reflector.001|reflector.pinN_L_Lib.001|Dupli|17
+    100104: Reflector.001|reflector.pinO_L_Lib.001|Dupli|18
+    100106: Reflector.001|reflector.pinP_L_Lib.001|Dupli|19
+    100108: Reflector.001|reflector.pinQ_L_Lib.001|Dupli|20
+    100110: Reflector.001|reflector.pinR_L_Lib.001|Dupli|21
+    100112: Reflector.001|reflector.pinS_L_Lib.001|Dupli|22
+    100114: Reflector.001|reflector.pinT_L_Lib.001|Dupli|23
+    100116: Reflector.001|reflector.pinU_L_Lib.001|Dupli|24
+    100118: Reflector.001|reflector.pinV_L_Lib.001|Dupli|25
+    100120: Reflector.001|reflector.pinW_L_Lib.001|Dupli|26
+    100122: Reflector.001|reflector.pinX_L_Lib.001|Dupli|27
+    100124: Reflector.001|reflector.pinY_L_Lib.001|Dupli|28
+    100126: Reflector.001|reflector.pinZ_L_Lib.001|Dupli|29
+    100128: Reflector.001|reflector.screw_0_L_Lib.001|Dupli|30
+    100130: Reflector.001|reflector.screw_1_L_Lib.001|Dupli|31
+    100132: Reflector.001|reflector.screw_2_L_Lib.001|Dupli|32
+    100134: Reflector.001|reflector.screw_3_L_Lib.001|Dupli|33
+    100136: Reflector.001|reflector.tube.big_L_Lib.001|Dupli|1
+    100138: Reflector.001|reflector.tube.small_L_Lib.001|Dupli|2
+    100140: Reflector.002
+    100142: Reflector.002|reflector.cover.001_L_Lib.001|Dupli|0
+    100144: Reflector.002|reflector.cover_L_Lib.001|Dupli|3
+    100146: Reflector.002|reflector.pinA_L_Lib.001|Dupli|4
+    100148: Reflector.002|reflector.pinB_L_Lib.001|Dupli|5
+    100150: Reflector.002|reflector.pinC_L_Lib.001|Dupli|6
+    100152: Reflector.002|reflector.pinD_L_Lib.001|Dupli|7
+    100154: Reflector.002|reflector.pinE_L_Lib.001|Dupli|8
+    100156: Reflector.002|reflector.pinF_L_Lib.001|Dupli|9
+    100158: Reflector.002|reflector.pinG_L_Lib.001|Dupli|10
+    100160: Reflector.002|reflector.pinH_L_Lib.001|Dupli|11
+    100162: Reflector.002|reflector.pinI_L_Lib.001|Dupli|12
+    100164: Reflector.002|reflector.pinJ_L_Lib.001|Dupli|13
+    100166: Reflector.002|reflector.pinK_L_Lib.001|Dupli|14
+    100168: Reflector.002|reflector.pinL_L_Lib.001|Dupli|15
+    100170: Reflector.002|reflector.pinM_L_Lib.001|Dupli|16
+    100172: Reflector.002|reflector.pinN_L_Lib.001|Dupli|17
+    100174: Reflector.002|reflector.pinO_L_Lib.001|Dupli|18
+    100176: Reflector.002|reflector.pinP_L_Lib.001|Dupli|19
+    100178: Reflector.002|reflector.pinQ_L_Lib.001|Dupli|20
+    100180: Reflector.002|reflector.pinR_L_Lib.001|Dupli|21
+    100182: Reflector.002|reflector.pinS_L_Lib.001|Dupli|22
+    100184: Reflector.002|reflector.pinT_L_Lib.001|Dupli|23
+    100186: Reflector.002|reflector.pinU_L_Lib.001|Dupli|24
+    100188: Reflector.002|reflector.pinV_L_Lib.001|Dupli|25
+    100190: Reflector.002|reflector.pinW_L_Lib.001|Dupli|26
+    100192: Reflector.002|reflector.pinX_L_Lib.001|Dupli|27
+    100194: Reflector.002|reflector.pinY_L_Lib.001|Dupli|28
+    100196: Reflector.002|reflector.pinZ_L_Lib.001|Dupli|29
+    100198: Reflector.002|reflector.screw_0_L_Lib.001|Dupli|30
+    100200: Reflector.002|reflector.screw_1_L_Lib.001|Dupli|31
+    100202: Reflector.002|reflector.screw_2_L_Lib.001|Dupli|32
+    100204: Reflector.002|reflector.screw_3_L_Lib.001|Dupli|33
+    100206: Reflector.002|reflector.tube.big_L_Lib.001|Dupli|1
+    100208: Reflector.002|reflector.tube.small_L_Lib.001|Dupli|2
+    100210: Reflector.003
+    100212: Reflector.003|reflector.cover.001_L_Lib.001|Dupli|0
+    100214: Reflector.003|reflector.cover_L_Lib.001|Dupli|3
+    100216: Reflector.003|reflector.pinA_L_Lib.001|Dupli|4
+    100218: Reflector.003|reflector.pinB_L_Lib.001|Dupli|5
+    100220: Reflector.003|reflector.pinC_L_Lib.001|Dupli|6
+    100222: Reflector.003|reflector.pinD_L_Lib.001|Dupli|7
+    100224: Reflector.003|reflector.pinE_L_Lib.001|Dupli|8
+    100226: Reflector.003|reflector.pinF_L_Lib.001|Dupli|9
+    100228: Reflector.003|reflector.pinG_L_Lib.001|Dupli|10
+    100230: Reflector.003|reflector.pinH_L_Lib.001|Dupli|11
+    100232: Reflector.003|reflector.pinI_L_Lib.001|Dupli|12
+    100234: Reflector.003|reflector.pinJ_L_Lib.001|Dupli|13
+    100236: Reflector.003|reflector.pinK_L_Lib.001|Dupli|14
+    100238: Reflector.003|reflector.pinL_L_Lib.001|Dupli|15
+    100240: Reflector.003|reflector.pinM_L_Lib.001|Dupli|16
+    100242: Reflector.003|reflector.pinN_L_Lib.001|Dupli|17
+    100244: Reflector.003|reflector.pinO_L_Lib.001|Dupli|18
+    100246: Reflector.003|reflector.pinP_L_Lib.001|Dupli|19
+    100248: Reflector.003|reflector.pinQ_L_Lib.001|Dupli|20
+    100250: Reflector.003|reflector.pinR_L_Lib.001|Dupli|21
+    100252: Reflector.003|reflector.pinS_L_Lib.001|Dupli|22
+    100254: Reflector.003|reflector.pinT_L_Lib.001|Dupli|23
+    100256: Reflector.003|reflector.pinU_L_Lib.001|Dupli|24
+    100258: Reflector.003|reflector.pinV_L_Lib.001|Dupli|25
+    100260: Reflector.003|reflector.pinW_L_Lib.001|Dupli|26
+    100262: Reflector.003|reflector.pinX_L_Lib.001|Dupli|27
+    100264: Reflector.003|reflector.pinY_L_Lib.001|Dupli|28
+    100266: Reflector.003|reflector.pinZ_L_Lib.001|Dupli|29
+    100268: Reflector.003|reflector.screw_0_L_Lib.001|Dupli|30
+    100270: Reflector.003|reflector.screw_1_L_Lib.001|Dupli|31
+    100272: Reflector.003|reflector.screw_2_L_Lib.001|Dupli|32
+    100274: Reflector.003|reflector.screw_3_L_Lib.001|Dupli|33
+    100276: Reflector.003|reflector.tube.big_L_Lib.001|Dupli|1
+    100278: Reflector.003|reflector.tube.small_L_Lib.001|Dupli|2
+    100280: Reflector.004
+    100282: Reflector.004|reflector.cover.001_L_Lib.001|Dupli|0
+    100284: Reflector.004|reflector.cover_L_Lib.001|Dupli|3
+    100286: Reflector.004|reflector.pinA_L_Lib.001|Dupli|4
+    100288: Reflector.004|reflector.pinB_L_Lib.001|Dupli|5
+    100290: Reflector.004|reflector.pinC_L_Lib.001|Dupli|6
+    100292: Reflector.004|reflector.pinD_L_Lib.001|Dupli|7
+    100294: Reflector.004|reflector.pinE_L_Lib.001|Dupli|8
+    100296: Reflector.004|reflector.pinF_L_Lib.001|Dupli|9
+    100298: Reflector.004|reflector.pinG_L_Lib.001|Dupli|10
+    100300: Reflector.004|reflector.pinH_L_Lib.001|Dupli|11
+    100302: Reflector.004|reflector.pinI_L_Lib.001|Dupli|12
+    100304: Reflector.004|reflector.pinJ_L_Lib.001|Dupli|13
+    100306: Reflector.004|reflector.pinK_L_Lib.001|Dupli|14
+    100308: Reflector.004|reflector.pinL_L_Lib.001|Dupli|15
+    100310: Reflector.004|reflector.pinM_L_Lib.001|Dupli|16
+    100312: Reflector.004|reflector.pinN_L_Lib.001|Dupli|17
+    100314: Reflector.004|reflector.pinO_L_Lib.001|Dupli|18
+    100316: Reflector.004|reflector.pinP_L_Lib.001|Dupli|19
+    100318: Reflector.004|reflector.pinQ_L_Lib.001|Dupli|20
+    100320: Reflector.004|reflector.pinR_L_Lib.001|Dupli|21
+    100322: Reflector.004|reflector.pinS_L_Lib.001|Dupli|22
+    100324: Reflector.004|reflector.pinT_L_Lib.001|Dupli|23
+    100326: Reflector.004|reflector.pinU_L_Lib.001|Dupli|24
+    100328: Reflector.004|reflector.pinV_L_Lib.001|Dupli|25
+    100330: Reflector.004|reflector.pinW_L_Lib.001|Dupli|26
+    100332: Reflector.004|reflector.pinX_L_Lib.001|Dupli|27
+    100334: Reflector.004|reflector.pinY_L_Lib.001|Dupli|28
+    100336: Reflector.004|reflector.pinZ_L_Lib.001|Dupli|29
+    100338: Reflector.004|reflector.screw_0_L_Lib.001|Dupli|30
+    100340: Reflector.004|reflector.screw_1_L_Lib.001|Dupli|31
+    100342: Reflector.004|reflector.screw_2_L_Lib.001|Dupli|32
+    100344: Reflector.004|reflector.screw_3_L_Lib.001|Dupli|33
+    100346: Reflector.004|reflector.tube.big_L_Lib.001|Dupli|1
+    100348: Reflector.004|reflector.tube.small_L_Lib.001|Dupli|2
+    100350: Reflector|reflector.cover.001_L_Lib.001|Dupli|0
+    100352: Reflector|reflector.cover_L_Lib.001|Dupli|3
+    100354: Reflector|reflector.pinA_L_Lib.001|Dupli|4
+    100356: Reflector|reflector.pinB_L_Lib.001|Dupli|5
+    100358: Reflector|reflector.pinC_L_Lib.001|Dupli|6
+    100360: Reflector|reflector.pinD_L_Lib.001|Dupli|7
+    100362: Reflector|reflector.pinE_L_Lib.001|Dupli|8
+    100364: Reflector|reflector.pinF_L_Lib.001|Dupli|9
+    100366: Reflector|reflector.pinG_L_Lib.001|Dupli|10
+    100368: Reflector|reflector.pinH_L_Lib.001|Dupli|11
+    100370: Reflector|reflector.pinI_L_Lib.001|Dupli|12
+    100372: Reflector|reflector.pinJ_L_Lib.001|Dupli|13
+    100374: Reflector|reflector.pinK_L_Lib.001|Dupli|14
+    100376: Reflector|reflector.pinL_L_Lib.001|Dupli|15
+    100378: Reflector|reflector.pinM_L_Lib.001|Dupli|16
+    100380: Reflector|reflector.pinN_L_Lib.001|Dupli|17
+    100382: Reflector|reflector.pinO_L_Lib.001|Dupli|18
+    100384: Reflector|reflector.pinP_L_Lib.001|Dupli|19
+    100386: Reflector|reflector.pinQ_L_Lib.001|Dupli|20
+    100388: Reflector|reflector.pinR_L_Lib.001|Dupli|21
+    100390: Reflector|reflector.pinS_L_Lib.001|Dupli|22
+    100392: Reflector|reflector.pinT_L_Lib.001|Dupli|23
+    100394: Reflector|reflector.pinU_L_Lib.001|Dupli|24
+    100396: Reflector|reflector.pinV_L_Lib.001|Dupli|25
+    100398: Reflector|reflector.pinW_L_Lib.001|Dupli|26
+    100400: Reflector|reflector.pinX_L_Lib.001|Dupli|27
+    100402: Reflector|reflector.pinY_L_Lib.001|Dupli|28
+    100404: Reflector|reflector.pinZ_L_Lib.001|Dupli|29
+    100406: Reflector|reflector.screw_0_L_Lib.001|Dupli|30
+    100408: Reflector|reflector.screw_1_L_Lib.001|Dupli|31
+    100410: Reflector|reflector.screw_2_L_Lib.001|Dupli|32
+    100412: Reflector|reflector.screw_3_L_Lib.001|Dupli|33
+    100414: Reflector|reflector.tube.big_L_Lib.001|Dupli|1
+    100416: Reflector|reflector.tube.small_L_Lib.001|Dupli|2
+    100418: Rotor
+    100420: Rotor.001
+    100422: Rotor.001|rotor.small_L_Lib.001|Dupli|0
+    100424: Rotor.002
+    100426: Rotor.002|rotor.small_L_Lib.001|Dupli|0
+    100428: Rotor.003
+    100430: Rotor.003|rotor.small_L_Lib.001|Dupli|0
+    100432: Rotor.004
+    100434: Rotor.004|rotor.small_L_Lib.001|Dupli|0
+    100436: Rotor.005
+    100438: Rotor.005|rotor.small_L_Lib.001|Dupli|0
+    100440: Rotor.006
+    100442: Rotor.006|rotor.small_L_Lib.001|Dupli|0
+    100444: Rotor.007
+    100446: Rotor.007|rotor.small_L_Lib.001|Dupli|0
+    100448: Rotor.008
+    100450: Rotor.008|rotor.small_L_Lib.001|Dupli|0
+    100452: Rotor.009
+    100454: Rotor.009|rotor.small_L_Lib.001|Dupli|0
+    100456: Rotor.010
+    100458: Rotor.010|rotor.small_L_Lib.001|Dupli|0
+    100460: Rotor.011
+    100462: Rotor.011|rotor.small_L_Lib.001|Dupli|0
+    100464: Rotor.012
+    100466: Rotor.012|rotor.small_L_Lib.001|Dupli|0
+    100468: Rotor.013
+    100470: Rotor.013|rotor.small_L_Lib.001|Dupli|0
+    100472: Rotor.014
+    100474: Rotor.014|rotor.small_L_Lib.001|Dupli|0
+    100476: Rotor|rotor.small_L_Lib.001|Dupli|0
+    100478: small cog.000
+    100480: small cog.000_end
+    100482: small cog.001
+    100484: small cog.001_end
+    100486: small cog.002
+    100488: small cog.002_end
+    100490: small cog.003
+    100492: small cog.003_end
+    100494: small cog.004
+    100496: small cog.004_end
+    100498: switch low poly
+    400000: Armature
+    400002: B Low res
+    400004: //RootNode
+    400006: Circle
+    400008: Circle.002
+    400010: Circle.005
+    400012: Circle.006
+    400014: Circle.007
+    400016: Circle.008
+    400018: Circle.009
+    400020: Cylinder
+    400022: Cylinder.001
+    400024: Cylinder.002
+    400026: Cylinder.003
+    400028: Cylinder.004
+    400030: Cylinder.005
+    400032: entry wheel
+    400034: entry wheel.001
+    400036: entry wheel.001|entrywheel.contacts_L_Lib.001|Dupli|1
+    400038: entry wheel.001|entrywheel_L_Lib.001|Dupli|0
+    400040: entry wheel.002
+    400042: entry wheel.002|entrywheel.contacts_L_Lib.001|Dupli|1
+    400044: entry wheel.002|entrywheel_L_Lib.001|Dupli|0
+    400046: entry wheel.003
+    400048: entry wheel.003|entrywheel.contacts_L_Lib.001|Dupli|1
+    400050: entry wheel.003|entrywheel_L_Lib.001|Dupli|0
+    400052: entry wheel.004
+    400054: entry wheel.004|entrywheel.contacts_L_Lib.001|Dupli|1
+    400056: entry wheel.004|entrywheel_L_Lib.001|Dupli|0
+    400058: entry wheel|entrywheel.contacts_L_Lib.001|Dupli|1
+    400060: entry wheel|entrywheel_L_Lib.001|Dupli|0
+    400062: large cog
+    400064: large cog_end
+    400066: Main
+    400068: Reflector
+    400070: Reflector.001
+    400072: Reflector.001|reflector.cover.001_L_Lib.001|Dupli|0
+    400074: Reflector.001|reflector.cover_L_Lib.001|Dupli|3
+    400076: Reflector.001|reflector.pinA_L_Lib.001|Dupli|4
+    400078: Reflector.001|reflector.pinB_L_Lib.001|Dupli|5
+    400080: Reflector.001|reflector.pinC_L_Lib.001|Dupli|6
+    400082: Reflector.001|reflector.pinD_L_Lib.001|Dupli|7
+    400084: Reflector.001|reflector.pinE_L_Lib.001|Dupli|8
+    400086: Reflector.001|reflector.pinF_L_Lib.001|Dupli|9
+    400088: Reflector.001|reflector.pinG_L_Lib.001|Dupli|10
+    400090: Reflector.001|reflector.pinH_L_Lib.001|Dupli|11
+    400092: Reflector.001|reflector.pinI_L_Lib.001|Dupli|12
+    400094: Reflector.001|reflector.pinJ_L_Lib.001|Dupli|13
+    400096: Reflector.001|reflector.pinK_L_Lib.001|Dupli|14
+    400098: Reflector.001|reflector.pinL_L_Lib.001|Dupli|15
+    400100: Reflector.001|reflector.pinM_L_Lib.001|Dupli|16
+    400102: Reflector.001|reflector.pinN_L_Lib.001|Dupli|17
+    400104: Reflector.001|reflector.pinO_L_Lib.001|Dupli|18
+    400106: Reflector.001|reflector.pinP_L_Lib.001|Dupli|19
+    400108: Reflector.001|reflector.pinQ_L_Lib.001|Dupli|20
+    400110: Reflector.001|reflector.pinR_L_Lib.001|Dupli|21
+    400112: Reflector.001|reflector.pinS_L_Lib.001|Dupli|22
+    400114: Reflector.001|reflector.pinT_L_Lib.001|Dupli|23
+    400116: Reflector.001|reflector.pinU_L_Lib.001|Dupli|24
+    400118: Reflector.001|reflector.pinV_L_Lib.001|Dupli|25
+    400120: Reflector.001|reflector.pinW_L_Lib.001|Dupli|26
+    400122: Reflector.001|reflector.pinX_L_Lib.001|Dupli|27
+    400124: Reflector.001|reflector.pinY_L_Lib.001|Dupli|28
+    400126: Reflector.001|reflector.pinZ_L_Lib.001|Dupli|29
+    400128: Reflector.001|reflector.screw_0_L_Lib.001|Dupli|30
+    400130: Reflector.001|reflector.screw_1_L_Lib.001|Dupli|31
+    400132: Reflector.001|reflector.screw_2_L_Lib.001|Dupli|32
+    400134: Reflector.001|reflector.screw_3_L_Lib.001|Dupli|33
+    400136: Reflector.001|reflector.tube.big_L_Lib.001|Dupli|1
+    400138: Reflector.001|reflector.tube.small_L_Lib.001|Dupli|2
+    400140: Reflector.002
+    400142: Reflector.002|reflector.cover.001_L_Lib.001|Dupli|0
+    400144: Reflector.002|reflector.cover_L_Lib.001|Dupli|3
+    400146: Reflector.002|reflector.pinA_L_Lib.001|Dupli|4
+    400148: Reflector.002|reflector.pinB_L_Lib.001|Dupli|5
+    400150: Reflector.002|reflector.pinC_L_Lib.001|Dupli|6
+    400152: Reflector.002|reflector.pinD_L_Lib.001|Dupli|7
+    400154: Reflector.002|reflector.pinE_L_Lib.001|Dupli|8
+    400156: Reflector.002|reflector.pinF_L_Lib.001|Dupli|9
+    400158: Reflector.002|reflector.pinG_L_Lib.001|Dupli|10
+    400160: Reflector.002|reflector.pinH_L_Lib.001|Dupli|11
+    400162: Reflector.002|reflector.pinI_L_Lib.001|Dupli|12
+    400164: Reflector.002|reflector.pinJ_L_Lib.001|Dupli|13
+    400166: Reflector.002|reflector.pinK_L_Lib.001|Dupli|14
+    400168: Reflector.002|reflector.pinL_L_Lib.001|Dupli|15
+    400170: Reflector.002|reflector.pinM_L_Lib.001|Dupli|16
+    400172: Reflector.002|reflector.pinN_L_Lib.001|Dupli|17
+    400174: Reflector.002|reflector.pinO_L_Lib.001|Dupli|18
+    400176: Reflector.002|reflector.pinP_L_Lib.001|Dupli|19
+    400178: Reflector.002|reflector.pinQ_L_Lib.001|Dupli|20
+    400180: Reflector.002|reflector.pinR_L_Lib.001|Dupli|21
+    400182: Reflector.002|reflector.pinS_L_Lib.001|Dupli|22
+    400184: Reflector.002|reflector.pinT_L_Lib.001|Dupli|23
+    400186: Reflector.002|reflector.pinU_L_Lib.001|Dupli|24
+    400188: Reflector.002|reflector.pinV_L_Lib.001|Dupli|25
+    400190: Reflector.002|reflector.pinW_L_Lib.001|Dupli|26
+    400192: Reflector.002|reflector.pinX_L_Lib.001|Dupli|27
+    400194: Reflector.002|reflector.pinY_L_Lib.001|Dupli|28
+    400196: Reflector.002|reflector.pinZ_L_Lib.001|Dupli|29
+    400198: Reflector.002|reflector.screw_0_L_Lib.001|Dupli|30
+    400200: Reflector.002|reflector.screw_1_L_Lib.001|Dupli|31
+    400202: Reflector.002|reflector.screw_2_L_Lib.001|Dupli|32
+    400204: Reflector.002|reflector.screw_3_L_Lib.001|Dupli|33
+    400206: Reflector.002|reflector.tube.big_L_Lib.001|Dupli|1
+    400208: Reflector.002|reflector.tube.small_L_Lib.001|Dupli|2
+    400210: Reflector.003
+    400212: Reflector.003|reflector.cover.001_L_Lib.001|Dupli|0
+    400214: Reflector.003|reflector.cover_L_Lib.001|Dupli|3
+    400216: Reflector.003|reflector.pinA_L_Lib.001|Dupli|4
+    400218: Reflector.003|reflector.pinB_L_Lib.001|Dupli|5
+    400220: Reflector.003|reflector.pinC_L_Lib.001|Dupli|6
+    400222: Reflector.003|reflector.pinD_L_Lib.001|Dupli|7
+    400224: Reflector.003|reflector.pinE_L_Lib.001|Dupli|8
+    400226: Reflector.003|reflector.pinF_L_Lib.001|Dupli|9
+    400228: Reflector.003|reflector.pinG_L_Lib.001|Dupli|10
+    400230: Reflector.003|reflector.pinH_L_Lib.001|Dupli|11
+    400232: Reflector.003|reflector.pinI_L_Lib.001|Dupli|12
+    400234: Reflector.003|reflector.pinJ_L_Lib.001|Dupli|13
+    400236: Reflector.003|reflector.pinK_L_Lib.001|Dupli|14
+    400238: Reflector.003|reflector.pinL_L_Lib.001|Dupli|15
+    400240: Reflector.003|reflector.pinM_L_Lib.001|Dupli|16
+    400242: Reflector.003|reflector.pinN_L_Lib.001|Dupli|17
+    400244: Reflector.003|reflector.pinO_L_Lib.001|Dupli|18
+    400246: Reflector.003|reflector.pinP_L_Lib.001|Dupli|19
+    400248: Reflector.003|reflector.pinQ_L_Lib.001|Dupli|20
+    400250: Reflector.003|reflector.pinR_L_Lib.001|Dupli|21
+    400252: Reflector.003|reflector.pinS_L_Lib.001|Dupli|22
+    400254: Reflector.003|reflector.pinT_L_Lib.001|Dupli|23
+    400256: Reflector.003|reflector.pinU_L_Lib.001|Dupli|24
+    400258: Reflector.003|reflector.pinV_L_Lib.001|Dupli|25
+    400260: Reflector.003|reflector.pinW_L_Lib.001|Dupli|26
+    400262: Reflector.003|reflector.pinX_L_Lib.001|Dupli|27
+    400264: Reflector.003|reflector.pinY_L_Lib.001|Dupli|28
+    400266: Reflector.003|reflector.pinZ_L_Lib.001|Dupli|29
+    400268: Reflector.003|reflector.screw_0_L_Lib.001|Dupli|30
+    400270: Reflector.003|reflector.screw_1_L_Lib.001|Dupli|31
+    400272: Reflector.003|reflector.screw_2_L_Lib.001|Dupli|32
+    400274: Reflector.003|reflector.screw_3_L_Lib.001|Dupli|33
+    400276: Reflector.003|reflector.tube.big_L_Lib.001|Dupli|1
+    400278: Reflector.003|reflector.tube.small_L_Lib.001|Dupli|2
+    400280: Reflector.004
+    400282: Reflector.004|reflector.cover.001_L_Lib.001|Dupli|0
+    400284: Reflector.004|reflector.cover_L_Lib.001|Dupli|3
+    400286: Reflector.004|reflector.pinA_L_Lib.001|Dupli|4
+    400288: Reflector.004|reflector.pinB_L_Lib.001|Dupli|5
+    400290: Reflector.004|reflector.pinC_L_Lib.001|Dupli|6
+    400292: Reflector.004|reflector.pinD_L_Lib.001|Dupli|7
+    400294: Reflector.004|reflector.pinE_L_Lib.001|Dupli|8
+    400296: Reflector.004|reflector.pinF_L_Lib.001|Dupli|9
+    400298: Reflector.004|reflector.pinG_L_Lib.001|Dupli|10
+    400300: Reflector.004|reflector.pinH_L_Lib.001|Dupli|11
+    400302: Reflector.004|reflector.pinI_L_Lib.001|Dupli|12
+    400304: Reflector.004|reflector.pinJ_L_Lib.001|Dupli|13
+    400306: Reflector.004|reflector.pinK_L_Lib.001|Dupli|14
+    400308: Reflector.004|reflector.pinL_L_Lib.001|Dupli|15
+    400310: Reflector.004|reflector.pinM_L_Lib.001|Dupli|16
+    400312: Reflector.004|reflector.pinN_L_Lib.001|Dupli|17
+    400314: Reflector.004|reflector.pinO_L_Lib.001|Dupli|18
+    400316: Reflector.004|reflector.pinP_L_Lib.001|Dupli|19
+    400318: Reflector.004|reflector.pinQ_L_Lib.001|Dupli|20
+    400320: Reflector.004|reflector.pinR_L_Lib.001|Dupli|21
+    400322: Reflector.004|reflector.pinS_L_Lib.001|Dupli|22
+    400324: Reflector.004|reflector.pinT_L_Lib.001|Dupli|23
+    400326: Reflector.004|reflector.pinU_L_Lib.001|Dupli|24
+    400328: Reflector.004|reflector.pinV_L_Lib.001|Dupli|25
+    400330: Reflector.004|reflector.pinW_L_Lib.001|Dupli|26
+    400332: Reflector.004|reflector.pinX_L_Lib.001|Dupli|27
+    400334: Reflector.004|reflector.pinY_L_Lib.001|Dupli|28
+    400336: Reflector.004|reflector.pinZ_L_Lib.001|Dupli|29
+    400338: Reflector.004|reflector.screw_0_L_Lib.001|Dupli|30
+    400340: Reflector.004|reflector.screw_1_L_Lib.001|Dupli|31
+    400342: Reflector.004|reflector.screw_2_L_Lib.001|Dupli|32
+    400344: Reflector.004|reflector.screw_3_L_Lib.001|Dupli|33
+    400346: Reflector.004|reflector.tube.big_L_Lib.001|Dupli|1
+    400348: Reflector.004|reflector.tube.small_L_Lib.001|Dupli|2
+    400350: Reflector|reflector.cover.001_L_Lib.001|Dupli|0
+    400352: Reflector|reflector.cover_L_Lib.001|Dupli|3
+    400354: Reflector|reflector.pinA_L_Lib.001|Dupli|4
+    400356: Reflector|reflector.pinB_L_Lib.001|Dupli|5
+    400358: Reflector|reflector.pinC_L_Lib.001|Dupli|6
+    400360: Reflector|reflector.pinD_L_Lib.001|Dupli|7
+    400362: Reflector|reflector.pinE_L_Lib.001|Dupli|8
+    400364: Reflector|reflector.pinF_L_Lib.001|Dupli|9
+    400366: Reflector|reflector.pinG_L_Lib.001|Dupli|10
+    400368: Reflector|reflector.pinH_L_Lib.001|Dupli|11
+    400370: Reflector|reflector.pinI_L_Lib.001|Dupli|12
+    400372: Reflector|reflector.pinJ_L_Lib.001|Dupli|13
+    400374: Reflector|reflector.pinK_L_Lib.001|Dupli|14
+    400376: Reflector|reflector.pinL_L_Lib.001|Dupli|15
+    400378: Reflector|reflector.pinM_L_Lib.001|Dupli|16
+    400380: Reflector|reflector.pinN_L_Lib.001|Dupli|17
+    400382: Reflector|reflector.pinO_L_Lib.001|Dupli|18
+    400384: Reflector|reflector.pinP_L_Lib.001|Dupli|19
+    400386: Reflector|reflector.pinQ_L_Lib.001|Dupli|20
+    400388: Reflector|reflector.pinR_L_Lib.001|Dupli|21
+    400390: Reflector|reflector.pinS_L_Lib.001|Dupli|22
+    400392: Reflector|reflector.pinT_L_Lib.001|Dupli|23
+    400394: Reflector|reflector.pinU_L_Lib.001|Dupli|24
+    400396: Reflector|reflector.pinV_L_Lib.001|Dupli|25
+    400398: Reflector|reflector.pinW_L_Lib.001|Dupli|26
+    400400: Reflector|reflector.pinX_L_Lib.001|Dupli|27
+    400402: Reflector|reflector.pinY_L_Lib.001|Dupli|28
+    400404: Reflector|reflector.pinZ_L_Lib.001|Dupli|29
+    400406: Reflector|reflector.screw_0_L_Lib.001|Dupli|30
+    400408: Reflector|reflector.screw_1_L_Lib.001|Dupli|31
+    400410: Reflector|reflector.screw_2_L_Lib.001|Dupli|32
+    400412: Reflector|reflector.screw_3_L_Lib.001|Dupli|33
+    400414: Reflector|reflector.tube.big_L_Lib.001|Dupli|1
+    400416: Reflector|reflector.tube.small_L_Lib.001|Dupli|2
+    400418: Rotor
+    400420: Rotor.001
+    400422: Rotor.001|rotor.small_L_Lib.001|Dupli|0
+    400424: Rotor.002
+    400426: Rotor.002|rotor.small_L_Lib.001|Dupli|0
+    400428: Rotor.003
+    400430: Rotor.003|rotor.small_L_Lib.001|Dupli|0
+    400432: Rotor.004
+    400434: Rotor.004|rotor.small_L_Lib.001|Dupli|0
+    400436: Rotor.005
+    400438: Rotor.005|rotor.small_L_Lib.001|Dupli|0
+    400440: Rotor.006
+    400442: Rotor.006|rotor.small_L_Lib.001|Dupli|0
+    400444: Rotor.007
+    400446: Rotor.007|rotor.small_L_Lib.001|Dupli|0
+    400448: Rotor.008
+    400450: Rotor.008|rotor.small_L_Lib.001|Dupli|0
+    400452: Rotor.009
+    400454: Rotor.009|rotor.small_L_Lib.001|Dupli|0
+    400456: Rotor.010
+    400458: Rotor.010|rotor.small_L_Lib.001|Dupli|0
+    400460: Rotor.011
+    400462: Rotor.011|rotor.small_L_Lib.001|Dupli|0
+    400464: Rotor.012
+    400466: Rotor.012|rotor.small_L_Lib.001|Dupli|0
+    400468: Rotor.013
+    400470: Rotor.013|rotor.small_L_Lib.001|Dupli|0
+    400472: Rotor.014
+    400474: Rotor.014|rotor.small_L_Lib.001|Dupli|0
+    400476: Rotor|rotor.small_L_Lib.001|Dupli|0
+    400478: small cog.000
+    400480: small cog.000_end
+    400482: small cog.001
+    400484: small cog.001_end
+    400486: small cog.002
+    400488: small cog.002_end
+    400490: small cog.003
+    400492: small cog.003_end
+    400494: small cog.004
+    400496: small cog.004_end
+    400498: switch low poly
+    2300000: B Low res
+    2300002: Circle
+    2300004: Circle.002
+    2300006: Circle.005
+    2300008: Circle.006
+    2300010: Circle.007
+    2300012: Circle.008
+    2300014: Circle.009
+    2300016: Cylinder
+    2300018: Cylinder.001
+    2300020: Cylinder.002
+    2300022: Cylinder.003
+    2300024: Cylinder.004
+    2300026: Cylinder.005
+    2300028: entry wheel.001|entrywheel.contacts_L_Lib.001|Dupli|1
+    2300030: entry wheel.001|entrywheel_L_Lib.001|Dupli|0
+    2300032: entry wheel.002|entrywheel.contacts_L_Lib.001|Dupli|1
+    2300034: entry wheel.002|entrywheel_L_Lib.001|Dupli|0
+    2300036: entry wheel.003|entrywheel.contacts_L_Lib.001|Dupli|1
+    2300038: entry wheel.003|entrywheel_L_Lib.001|Dupli|0
+    2300040: entry wheel.004|entrywheel.contacts_L_Lib.001|Dupli|1
+    2300042: entry wheel.004|entrywheel_L_Lib.001|Dupli|0
+    2300044: entry wheel|entrywheel.contacts_L_Lib.001|Dupli|1
+    2300046: entry wheel|entrywheel_L_Lib.001|Dupli|0
+    2300048: Reflector.001|reflector.cover.001_L_Lib.001|Dupli|0
+    2300050: Reflector.001|reflector.cover_L_Lib.001|Dupli|3
+    2300052: Reflector.001|reflector.pinA_L_Lib.001|Dupli|4
+    2300054: Reflector.001|reflector.pinB_L_Lib.001|Dupli|5
+    2300056: Reflector.001|reflector.pinC_L_Lib.001|Dupli|6
+    2300058: Reflector.001|reflector.pinD_L_Lib.001|Dupli|7
+    2300060: Reflector.001|reflector.pinE_L_Lib.001|Dupli|8
+    2300062: Reflector.001|reflector.pinF_L_Lib.001|Dupli|9
+    2300064: Reflector.001|reflector.pinG_L_Lib.001|Dupli|10
+    2300066: Reflector.001|reflector.pinH_L_Lib.001|Dupli|11
+    2300068: Reflector.001|reflector.pinI_L_Lib.001|Dupli|12
+    2300070: Reflector.001|reflector.pinJ_L_Lib.001|Dupli|13
+    2300072: Reflector.001|reflector.pinK_L_Lib.001|Dupli|14
+    2300074: Reflector.001|reflector.pinL_L_Lib.001|Dupli|15
+    2300076: Reflector.001|reflector.pinM_L_Lib.001|Dupli|16
+    2300078: Reflector.001|reflector.pinN_L_Lib.001|Dupli|17
+    2300080: Reflector.001|reflector.pinO_L_Lib.001|Dupli|18
+    2300082: Reflector.001|reflector.pinP_L_Lib.001|Dupli|19
+    2300084: Reflector.001|reflector.pinQ_L_Lib.001|Dupli|20
+    2300086: Reflector.001|reflector.pinR_L_Lib.001|Dupli|21
+    2300088: Reflector.001|reflector.pinS_L_Lib.001|Dupli|22
+    2300090: Reflector.001|reflector.pinT_L_Lib.001|Dupli|23
+    2300092: Reflector.001|reflector.pinU_L_Lib.001|Dupli|24
+    2300094: Reflector.001|reflector.pinV_L_Lib.001|Dupli|25
+    2300096: Reflector.001|reflector.pinW_L_Lib.001|Dupli|26
+    2300098: Reflector.001|reflector.pinX_L_Lib.001|Dupli|27
+    2300100: Reflector.001|reflector.pinY_L_Lib.001|Dupli|28
+    2300102: Reflector.001|reflector.pinZ_L_Lib.001|Dupli|29
+    2300104: Reflector.001|reflector.screw_0_L_Lib.001|Dupli|30
+    2300106: Reflector.001|reflector.screw_1_L_Lib.001|Dupli|31
+    2300108: Reflector.001|reflector.screw_2_L_Lib.001|Dupli|32
+    2300110: Reflector.001|reflector.screw_3_L_Lib.001|Dupli|33
+    2300112: Reflector.001|reflector.tube.big_L_Lib.001|Dupli|1
+    2300114: Reflector.001|reflector.tube.small_L_Lib.001|Dupli|2
+    2300116: Reflector.002|reflector.cover.001_L_Lib.001|Dupli|0
+    2300118: Reflector.002|reflector.cover_L_Lib.001|Dupli|3
+    2300120: Reflector.002|reflector.pinA_L_Lib.001|Dupli|4
+    2300122: Reflector.002|reflector.pinB_L_Lib.001|Dupli|5
+    2300124: Reflector.002|reflector.pinC_L_Lib.001|Dupli|6
+    2300126: Reflector.002|reflector.pinD_L_Lib.001|Dupli|7
+    2300128: Reflector.002|reflector.pinE_L_Lib.001|Dupli|8
+    2300130: Reflector.002|reflector.pinF_L_Lib.001|Dupli|9
+    2300132: Reflector.002|reflector.pinG_L_Lib.001|Dupli|10
+    2300134: Reflector.002|reflector.pinH_L_Lib.001|Dupli|11
+    2300136: Reflector.002|reflector.pinI_L_Lib.001|Dupli|12
+    2300138: Reflector.002|reflector.pinJ_L_Lib.001|Dupli|13
+    2300140: Reflector.002|reflector.pinK_L_Lib.001|Dupli|14
+    2300142: Reflector.002|reflector.pinL_L_Lib.001|Dupli|15
+    2300144: Reflector.002|reflector.pinM_L_Lib.001|Dupli|16
+    2300146: Reflector.002|reflector.pinN_L_Lib.001|Dupli|17
+    2300148: Reflector.002|reflector.pinO_L_Lib.001|Dupli|18
+    2300150: Reflector.002|reflector.pinP_L_Lib.001|Dupli|19
+    2300152: Reflector.002|reflector.pinQ_L_Lib.001|Dupli|20
+    2300154: Reflector.002|reflector.pinR_L_Lib.001|Dupli|21
+    2300156: Reflector.002|reflector.pinS_L_Lib.001|Dupli|22
+    2300158: Reflector.002|reflector.pinT_L_Lib.001|Dupli|23
+    2300160: Reflector.002|reflector.pinU_L_Lib.001|Dupli|24
+    2300162: Reflector.002|reflector.pinV_L_Lib.001|Dupli|25
+    2300164: Reflector.002|reflector.pinW_L_Lib.001|Dupli|26
+    2300166: Reflector.002|reflector.pinX_L_Lib.001|Dupli|27
+    2300168: Reflector.002|reflector.pinY_L_Lib.001|Dupli|28
+    2300170: Reflector.002|reflector.pinZ_L_Lib.001|Dupli|29
+    2300172: Reflector.002|reflector.screw_0_L_Lib.001|Dupli|30
+    2300174: Reflector.002|reflector.screw_1_L_Lib.001|Dupli|31
+    2300176: Reflector.002|reflector.screw_2_L_Lib.001|Dupli|32
+    2300178: Reflector.002|reflector.screw_3_L_Lib.001|Dupli|33
+    2300180: Reflector.002|reflector.tube.big_L_Lib.001|Dupli|1
+    2300182: Reflector.002|reflector.tube.small_L_Lib.001|Dupli|2
+    2300184: Reflector.003|reflector.cover.001_L_Lib.001|Dupli|0
+    2300186: Reflector.003|reflector.cover_L_Lib.001|Dupli|3
+    2300188: Reflector.003|reflector.pinA_L_Lib.001|Dupli|4
+    2300190: Reflector.003|reflector.pinB_L_Lib.001|Dupli|5
+    2300192: Reflector.003|reflector.pinC_L_Lib.001|Dupli|6
+    2300194: Reflector.003|reflector.pinD_L_Lib.001|Dupli|7
+    2300196: Reflector.003|reflector.pinE_L_Lib.001|Dupli|8
+    2300198: Reflector.003|reflector.pinF_L_Lib.001|Dupli|9
+    2300200: Reflector.003|reflector.pinG_L_Lib.001|Dupli|10
+    2300202: Reflector.003|reflector.pinH_L_Lib.001|Dupli|11
+    2300204: Reflector.003|reflector.pinI_L_Lib.001|Dupli|12
+    2300206: Reflector.003|reflector.pinJ_L_Lib.001|Dupli|13
+    2300208: Reflector.003|reflector.pinK_L_Lib.001|Dupli|14
+    2300210: Reflector.003|reflector.pinL_L_Lib.001|Dupli|15
+    2300212: Reflector.003|reflector.pinM_L_Lib.001|Dupli|16
+    2300214: Reflector.003|reflector.pinN_L_Lib.001|Dupli|17
+    2300216: Reflector.003|reflector.pinO_L_Lib.001|Dupli|18
+    2300218: Reflector.003|reflector.pinP_L_Lib.001|Dupli|19
+    2300220: Reflector.003|reflector.pinQ_L_Lib.001|Dupli|20
+    2300222: Reflector.003|reflector.pinR_L_Lib.001|Dupli|21
+    2300224: Reflector.003|reflector.pinS_L_Lib.001|Dupli|22
+    2300226: Reflector.003|reflector.pinT_L_Lib.001|Dupli|23
+    2300228: Reflector.003|reflector.pinU_L_Lib.001|Dupli|24
+    2300230: Reflector.003|reflector.pinV_L_Lib.001|Dupli|25
+    2300232: Reflector.003|reflector.pinW_L_Lib.001|Dupli|26
+    2300234: Reflector.003|reflector.pinX_L_Lib.001|Dupli|27
+    2300236: Reflector.003|reflector.pinY_L_Lib.001|Dupli|28
+    2300238: Reflector.003|reflector.pinZ_L_Lib.001|Dupli|29
+    2300240: Reflector.003|reflector.screw_0_L_Lib.001|Dupli|30
+    2300242: Reflector.003|reflector.screw_1_L_Lib.001|Dupli|31
+    2300244: Reflector.003|reflector.screw_2_L_Lib.001|Dupli|32
+    2300246: Reflector.003|reflector.screw_3_L_Lib.001|Dupli|33
+    2300248: Reflector.003|reflector.tube.big_L_Lib.001|Dupli|1
+    2300250: Reflector.003|reflector.tube.small_L_Lib.001|Dupli|2
+    2300252: Reflector.004|reflector.cover.001_L_Lib.001|Dupli|0
+    2300254: Reflector.004|reflector.cover_L_Lib.001|Dupli|3
+    2300256: Reflector.004|reflector.pinA_L_Lib.001|Dupli|4
+    2300258: Reflector.004|reflector.pinB_L_Lib.001|Dupli|5
+    2300260: Reflector.004|reflector.pinC_L_Lib.001|Dupli|6
+    2300262: Reflector.004|reflector.pinD_L_Lib.001|Dupli|7
+    2300264: Reflector.004|reflector.pinE_L_Lib.001|Dupli|8
+    2300266: Reflector.004|reflector.pinF_L_Lib.001|Dupli|9
+    2300268: Reflector.004|reflector.pinG_L_Lib.001|Dupli|10
+    2300270: Reflector.004|reflector.pinH_L_Lib.001|Dupli|11
+    2300272: Reflector.004|reflector.pinI_L_Lib.001|Dupli|12
+    2300274: Reflector.004|reflector.pinJ_L_Lib.001|Dupli|13
+    2300276: Reflector.004|reflector.pinK_L_Lib.001|Dupli|14
+    2300278: Reflector.004|reflector.pinL_L_Lib.001|Dupli|15
+    2300280: Reflector.004|reflector.pinM_L_Lib.001|Dupli|16
+    2300282: Reflector.004|reflector.pinN_L_Lib.001|Dupli|17
+    2300284: Reflector.004|reflector.pinO_L_Lib.001|Dupli|18
+    2300286: Reflector.004|reflector.pinP_L_Lib.001|Dupli|19
+    2300288: Reflector.004|reflector.pinQ_L_Lib.001|Dupli|20
+    2300290: Reflector.004|reflector.pinR_L_Lib.001|Dupli|21
+    2300292: Reflector.004|reflector.pinS_L_Lib.001|Dupli|22
+    2300294: Reflector.004|reflector.pinT_L_Lib.001|Dupli|23
+    2300296: Reflector.004|reflector.pinU_L_Lib.001|Dupli|24
+    2300298: Reflector.004|reflector.pinV_L_Lib.001|Dupli|25
+    2300300: Reflector.004|reflector.pinW_L_Lib.001|Dupli|26
+    2300302: Reflector.004|reflector.pinX_L_Lib.001|Dupli|27
+    2300304: Reflector.004|reflector.pinY_L_Lib.001|Dupli|28
+    2300306: Reflector.004|reflector.pinZ_L_Lib.001|Dupli|29
+    2300308: Reflector.004|reflector.screw_0_L_Lib.001|Dupli|30
+    2300310: Reflector.004|reflector.screw_1_L_Lib.001|Dupli|31
+    2300312: Reflector.004|reflector.screw_2_L_Lib.001|Dupli|32
+    2300314: Reflector.004|reflector.screw_3_L_Lib.001|Dupli|33
+    2300316: Reflector.004|reflector.tube.big_L_Lib.001|Dupli|1
+    2300318: Reflector.004|reflector.tube.small_L_Lib.001|Dupli|2
+    2300320: Reflector|reflector.cover.001_L_Lib.001|Dupli|0
+    2300322: Reflector|reflector.cover_L_Lib.001|Dupli|3
+    2300324: Reflector|reflector.pinA_L_Lib.001|Dupli|4
+    2300326: Reflector|reflector.pinB_L_Lib.001|Dupli|5
+    2300328: Reflector|reflector.pinC_L_Lib.001|Dupli|6
+    2300330: Reflector|reflector.pinD_L_Lib.001|Dupli|7
+    2300332: Reflector|reflector.pinE_L_Lib.001|Dupli|8
+    2300334: Reflector|reflector.pinF_L_Lib.001|Dupli|9
+    2300336: Reflector|reflector.pinG_L_Lib.001|Dupli|10
+    2300338: Reflector|reflector.pinH_L_Lib.001|Dupli|11
+    2300340: Reflector|reflector.pinI_L_Lib.001|Dupli|12
+    2300342: Reflector|reflector.pinJ_L_Lib.001|Dupli|13
+    2300344: Reflector|reflector.pinK_L_Lib.001|Dupli|14
+    2300346: Reflector|reflector.pinL_L_Lib.001|Dupli|15
+    2300348: Reflector|reflector.pinM_L_Lib.001|Dupli|16
+    2300350: Reflector|reflector.pinN_L_Lib.001|Dupli|17
+    2300352: Reflector|reflector.pinO_L_Lib.001|Dupli|18
+    2300354: Reflector|reflector.pinP_L_Lib.001|Dupli|19
+    2300356: Reflector|reflector.pinQ_L_Lib.001|Dupli|20
+    2300358: Reflector|reflector.pinR_L_Lib.001|Dupli|21
+    2300360: Reflector|reflector.pinS_L_Lib.001|Dupli|22
+    2300362: Reflector|reflector.pinT_L_Lib.001|Dupli|23
+    2300364: Reflector|reflector.pinU_L_Lib.001|Dupli|24
+    2300366: Reflector|reflector.pinV_L_Lib.001|Dupli|25
+    2300368: Reflector|reflector.pinW_L_Lib.001|Dupli|26
+    2300370: Reflector|reflector.pinX_L_Lib.001|Dupli|27
+    2300372: Reflector|reflector.pinY_L_Lib.001|Dupli|28
+    2300374: Reflector|reflector.pinZ_L_Lib.001|Dupli|29
+    2300376: Reflector|reflector.screw_0_L_Lib.001|Dupli|30
+    2300378: Reflector|reflector.screw_1_L_Lib.001|Dupli|31
+    2300380: Reflector|reflector.screw_2_L_Lib.001|Dupli|32
+    2300382: Reflector|reflector.screw_3_L_Lib.001|Dupli|33
+    2300384: Reflector|reflector.tube.big_L_Lib.001|Dupli|1
+    2300386: Reflector|reflector.tube.small_L_Lib.001|Dupli|2
+    2300388: Rotor.001|rotor.small_L_Lib.001|Dupli|0
+    2300390: Rotor.002|rotor.small_L_Lib.001|Dupli|0
+    2300392: Rotor.003|rotor.small_L_Lib.001|Dupli|0
+    2300394: Rotor.004|rotor.small_L_Lib.001|Dupli|0
+    2300396: Rotor.005|rotor.small_L_Lib.001|Dupli|0
+    2300398: Rotor.006|rotor.small_L_Lib.001|Dupli|0
+    2300400: Rotor.007|rotor.small_L_Lib.001|Dupli|0
+    2300402: Rotor.008|rotor.small_L_Lib.001|Dupli|0
+    2300404: Rotor.009|rotor.small_L_Lib.001|Dupli|0
+    2300406: Rotor.010|rotor.small_L_Lib.001|Dupli|0
+    2300408: Rotor.011|rotor.small_L_Lib.001|Dupli|0
+    2300410: Rotor.012|rotor.small_L_Lib.001|Dupli|0
+    2300412: Rotor.013|rotor.small_L_Lib.001|Dupli|0
+    2300414: Rotor.014|rotor.small_L_Lib.001|Dupli|0
+    2300416: Rotor|rotor.small_L_Lib.001|Dupli|0
+    2300418: switch low poly
+    3300000: B Low res
+    3300002: Circle
+    3300004: Circle.002
+    3300006: Circle.005
+    3300008: Circle.006
+    3300010: Circle.007
+    3300012: Circle.008
+    3300014: Circle.009
+    3300016: Cylinder
+    3300018: Cylinder.001
+    3300020: Cylinder.002
+    3300022: Cylinder.003
+    3300024: Cylinder.004
+    3300026: Cylinder.005
+    3300028: entry wheel.001|entrywheel.contacts_L_Lib.001|Dupli|1
+    3300030: entry wheel.001|entrywheel_L_Lib.001|Dupli|0
+    3300032: entry wheel.002|entrywheel.contacts_L_Lib.001|Dupli|1
+    3300034: entry wheel.002|entrywheel_L_Lib.001|Dupli|0
+    3300036: entry wheel.003|entrywheel.contacts_L_Lib.001|Dupli|1
+    3300038: entry wheel.003|entrywheel_L_Lib.001|Dupli|0
+    3300040: entry wheel.004|entrywheel.contacts_L_Lib.001|Dupli|1
+    3300042: entry wheel.004|entrywheel_L_Lib.001|Dupli|0
+    3300044: entry wheel|entrywheel.contacts_L_Lib.001|Dupli|1
+    3300046: entry wheel|entrywheel_L_Lib.001|Dupli|0
+    3300048: Reflector.001|reflector.cover.001_L_Lib.001|Dupli|0
+    3300050: Reflector.001|reflector.cover_L_Lib.001|Dupli|3
+    3300052: Reflector.001|reflector.pinA_L_Lib.001|Dupli|4
+    3300054: Reflector.001|reflector.pinB_L_Lib.001|Dupli|5
+    3300056: Reflector.001|reflector.pinC_L_Lib.001|Dupli|6
+    3300058: Reflector.001|reflector.pinD_L_Lib.001|Dupli|7
+    3300060: Reflector.001|reflector.pinE_L_Lib.001|Dupli|8
+    3300062: Reflector.001|reflector.pinF_L_Lib.001|Dupli|9
+    3300064: Reflector.001|reflector.pinG_L_Lib.001|Dupli|10
+    3300066: Reflector.001|reflector.pinH_L_Lib.001|Dupli|11
+    3300068: Reflector.001|reflector.pinI_L_Lib.001|Dupli|12
+    3300070: Reflector.001|reflector.pinJ_L_Lib.001|Dupli|13
+    3300072: Reflector.001|reflector.pinK_L_Lib.001|Dupli|14
+    3300074: Reflector.001|reflector.pinL_L_Lib.001|Dupli|15
+    3300076: Reflector.001|reflector.pinM_L_Lib.001|Dupli|16
+    3300078: Reflector.001|reflector.pinN_L_Lib.001|Dupli|17
+    3300080: Reflector.001|reflector.pinO_L_Lib.001|Dupli|18
+    3300082: Reflector.001|reflector.pinP_L_Lib.001|Dupli|19
+    3300084: Reflector.001|reflector.pinQ_L_Lib.001|Dupli|20
+    3300086: Reflector.001|reflector.pinR_L_Lib.001|Dupli|21
+    3300088: Reflector.001|reflector.pinS_L_Lib.001|Dupli|22
+    3300090: Reflector.001|reflector.pinT_L_Lib.001|Dupli|23
+    3300092: Reflector.001|reflector.pinU_L_Lib.001|Dupli|24
+    3300094: Reflector.001|reflector.pinV_L_Lib.001|Dupli|25
+    3300096: Reflector.001|reflector.pinW_L_Lib.001|Dupli|26
+    3300098: Reflector.001|reflector.pinX_L_Lib.001|Dupli|27
+    3300100: Reflector.001|reflector.pinY_L_Lib.001|Dupli|28
+    3300102: Reflector.001|reflector.pinZ_L_Lib.001|Dupli|29
+    3300104: Reflector.001|reflector.screw_0_L_Lib.001|Dupli|30
+    3300106: Reflector.001|reflector.screw_1_L_Lib.001|Dupli|31
+    3300108: Reflector.001|reflector.screw_2_L_Lib.001|Dupli|32
+    3300110: Reflector.001|reflector.screw_3_L_Lib.001|Dupli|33
+    3300112: Reflector.001|reflector.tube.big_L_Lib.001|Dupli|1
+    3300114: Reflector.001|reflector.tube.small_L_Lib.001|Dupli|2
+    3300116: Reflector.002|reflector.cover.001_L_Lib.001|Dupli|0
+    3300118: Reflector.002|reflector.cover_L_Lib.001|Dupli|3
+    3300120: Reflector.002|reflector.pinA_L_Lib.001|Dupli|4
+    3300122: Reflector.002|reflector.pinB_L_Lib.001|Dupli|5
+    3300124: Reflector.002|reflector.pinC_L_Lib.001|Dupli|6
+    3300126: Reflector.002|reflector.pinD_L_Lib.001|Dupli|7
+    3300128: Reflector.002|reflector.pinE_L_Lib.001|Dupli|8
+    3300130: Reflector.002|reflector.pinF_L_Lib.001|Dupli|9
+    3300132: Reflector.002|reflector.pinG_L_Lib.001|Dupli|10
+    3300134: Reflector.002|reflector.pinH_L_Lib.001|Dupli|11
+    3300136: Reflector.002|reflector.pinI_L_Lib.001|Dupli|12
+    3300138: Reflector.002|reflector.pinJ_L_Lib.001|Dupli|13
+    3300140: Reflector.002|reflector.pinK_L_Lib.001|Dupli|14
+    3300142: Reflector.002|reflector.pinL_L_Lib.001|Dupli|15
+    3300144: Reflector.002|reflector.pinM_L_Lib.001|Dupli|16
+    3300146: Reflector.002|reflector.pinN_L_Lib.001|Dupli|17
+    3300148: Reflector.002|reflector.pinO_L_Lib.001|Dupli|18
+    3300150: Reflector.002|reflector.pinP_L_Lib.001|Dupli|19
+    3300152: Reflector.002|reflector.pinQ_L_Lib.001|Dupli|20
+    3300154: Reflector.002|reflector.pinR_L_Lib.001|Dupli|21
+    3300156: Reflector.002|reflector.pinS_L_Lib.001|Dupli|22
+    3300158: Reflector.002|reflector.pinT_L_Lib.001|Dupli|23
+    3300160: Reflector.002|reflector.pinU_L_Lib.001|Dupli|24
+    3300162: Reflector.002|reflector.pinV_L_Lib.001|Dupli|25
+    3300164: Reflector.002|reflector.pinW_L_Lib.001|Dupli|26
+    3300166: Reflector.002|reflector.pinX_L_Lib.001|Dupli|27
+    3300168: Reflector.002|reflector.pinY_L_Lib.001|Dupli|28
+    3300170: Reflector.002|reflector.pinZ_L_Lib.001|Dupli|29
+    3300172: Reflector.002|reflector.screw_0_L_Lib.001|Dupli|30
+    3300174: Reflector.002|reflector.screw_1_L_Lib.001|Dupli|31
+    3300176: Reflector.002|reflector.screw_2_L_Lib.001|Dupli|32
+    3300178: Reflector.002|reflector.screw_3_L_Lib.001|Dupli|33
+    3300180: Reflector.002|reflector.tube.big_L_Lib.001|Dupli|1
+    3300182: Reflector.002|reflector.tube.small_L_Lib.001|Dupli|2
+    3300184: Reflector.003|reflector.cover.001_L_Lib.001|Dupli|0
+    3300186: Reflector.003|reflector.cover_L_Lib.001|Dupli|3
+    3300188: Reflector.003|reflector.pinA_L_Lib.001|Dupli|4
+    3300190: Reflector.003|reflector.pinB_L_Lib.001|Dupli|5
+    3300192: Reflector.003|reflector.pinC_L_Lib.001|Dupli|6
+    3300194: Reflector.003|reflector.pinD_L_Lib.001|Dupli|7
+    3300196: Reflector.003|reflector.pinE_L_Lib.001|Dupli|8
+    3300198: Reflector.003|reflector.pinF_L_Lib.001|Dupli|9
+    3300200: Reflector.003|reflector.pinG_L_Lib.001|Dupli|10
+    3300202: Reflector.003|reflector.pinH_L_Lib.001|Dupli|11
+    3300204: Reflector.003|reflector.pinI_L_Lib.001|Dupli|12
+    3300206: Reflector.003|reflector.pinJ_L_Lib.001|Dupli|13
+    3300208: Reflector.003|reflector.pinK_L_Lib.001|Dupli|14
+    3300210: Reflector.003|reflector.pinL_L_Lib.001|Dupli|15
+    3300212: Reflector.003|reflector.pinM_L_Lib.001|Dupli|16
+    3300214: Reflector.003|reflector.pinN_L_Lib.001|Dupli|17
+    3300216: Reflector.003|reflector.pinO_L_Lib.001|Dupli|18
+    3300218: Reflector.003|reflector.pinP_L_Lib.001|Dupli|19
+    3300220: Reflector.003|reflector.pinQ_L_Lib.001|Dupli|20
+    3300222: Reflector.003|reflector.pinR_L_Lib.001|Dupli|21
+    3300224: Reflector.003|reflector.pinS_L_Lib.001|Dupli|22
+    3300226: Reflector.003|reflector.pinT_L_Lib.001|Dupli|23
+    3300228: Reflector.003|reflector.pinU_L_Lib.001|Dupli|24
+    3300230: Reflector.003|reflector.pinV_L_Lib.001|Dupli|25
+    3300232: Reflector.003|reflector.pinW_L_Lib.001|Dupli|26
+    3300234: Reflector.003|reflector.pinX_L_Lib.001|Dupli|27
+    3300236: Reflector.003|reflector.pinY_L_Lib.001|Dupli|28
+    3300238: Reflector.003|reflector.pinZ_L_Lib.001|Dupli|29
+    3300240: Reflector.003|reflector.screw_0_L_Lib.001|Dupli|30
+    3300242: Reflector.003|reflector.screw_1_L_Lib.001|Dupli|31
+    3300244: Reflector.003|reflector.screw_2_L_Lib.001|Dupli|32
+    3300246: Reflector.003|reflector.screw_3_L_Lib.001|Dupli|33
+    3300248: Reflector.003|reflector.tube.big_L_Lib.001|Dupli|1
+    3300250: Reflector.003|reflector.tube.small_L_Lib.001|Dupli|2
+    3300252: Reflector.004|reflector.cover.001_L_Lib.001|Dupli|0
+    3300254: Reflector.004|reflector.cover_L_Lib.001|Dupli|3
+    3300256: Reflector.004|reflector.pinA_L_Lib.001|Dupli|4
+    3300258: Reflector.004|reflector.pinB_L_Lib.001|Dupli|5
+    3300260: Reflector.004|reflector.pinC_L_Lib.001|Dupli|6
+    3300262: Reflector.004|reflector.pinD_L_Lib.001|Dupli|7
+    3300264: Reflector.004|reflector.pinE_L_Lib.001|Dupli|8
+    3300266: Reflector.004|reflector.pinF_L_Lib.001|Dupli|9
+    3300268: Reflector.004|reflector.pinG_L_Lib.001|Dupli|10
+    3300270: Reflector.004|reflector.pinH_L_Lib.001|Dupli|11
+    3300272: Reflector.004|reflector.pinI_L_Lib.001|Dupli|12
+    3300274: Reflector.004|reflector.pinJ_L_Lib.001|Dupli|13
+    3300276: Reflector.004|reflector.pinK_L_Lib.001|Dupli|14
+    3300278: Reflector.004|reflector.pinL_L_Lib.001|Dupli|15
+    3300280: Reflector.004|reflector.pinM_L_Lib.001|Dupli|16
+    3300282: Reflector.004|reflector.pinN_L_Lib.001|Dupli|17
+    3300284: Reflector.004|reflector.pinO_L_Lib.001|Dupli|18
+    3300286: Reflector.004|reflector.pinP_L_Lib.001|Dupli|19
+    3300288: Reflector.004|reflector.pinQ_L_Lib.001|Dupli|20
+    3300290: Reflector.004|reflector.pinR_L_Lib.001|Dupli|21
+    3300292: Reflector.004|reflector.pinS_L_Lib.001|Dupli|22
+    3300294: Reflector.004|reflector.pinT_L_Lib.001|Dupli|23
+    3300296: Reflector.004|reflector.pinU_L_Lib.001|Dupli|24
+    3300298: Reflector.004|reflector.pinV_L_Lib.001|Dupli|25
+    3300300: Reflector.004|reflector.pinW_L_Lib.001|Dupli|26
+    3300302: Reflector.004|reflector.pinX_L_Lib.001|Dupli|27
+    3300304: Reflector.004|reflector.pinY_L_Lib.001|Dupli|28
+    3300306: Reflector.004|reflector.pinZ_L_Lib.001|Dupli|29
+    3300308: Reflector.004|reflector.screw_0_L_Lib.001|Dupli|30
+    3300310: Reflector.004|reflector.screw_1_L_Lib.001|Dupli|31
+    3300312: Reflector.004|reflector.screw_2_L_Lib.001|Dupli|32
+    3300314: Reflector.004|reflector.screw_3_L_Lib.001|Dupli|33
+    3300316: Reflector.004|reflector.tube.big_L_Lib.001|Dupli|1
+    3300318: Reflector.004|reflector.tube.small_L_Lib.001|Dupli|2
+    3300320: Reflector|reflector.cover.001_L_Lib.001|Dupli|0
+    3300322: Reflector|reflector.cover_L_Lib.001|Dupli|3
+    3300324: Reflector|reflector.pinA_L_Lib.001|Dupli|4
+    3300326: Reflector|reflector.pinB_L_Lib.001|Dupli|5
+    3300328: Reflector|reflector.pinC_L_Lib.001|Dupli|6
+    3300330: Reflector|reflector.pinD_L_Lib.001|Dupli|7
+    3300332: Reflector|reflector.pinE_L_Lib.001|Dupli|8
+    3300334: Reflector|reflector.pinF_L_Lib.001|Dupli|9
+    3300336: Reflector|reflector.pinG_L_Lib.001|Dupli|10
+    3300338: Reflector|reflector.pinH_L_Lib.001|Dupli|11
+    3300340: Reflector|reflector.pinI_L_Lib.001|Dupli|12
+    3300342: Reflector|reflector.pinJ_L_Lib.001|Dupli|13
+    3300344: Reflector|reflector.pinK_L_Lib.001|Dupli|14
+    3300346: Reflector|reflector.pinL_L_Lib.001|Dupli|15
+    3300348: Reflector|reflector.pinM_L_Lib.001|Dupli|16
+    3300350: Reflector|reflector.pinN_L_Lib.001|Dupli|17
+    3300352: Reflector|reflector.pinO_L_Lib.001|Dupli|18
+    3300354: Reflector|reflector.pinP_L_Lib.001|Dupli|19
+    3300356: Reflector|reflector.pinQ_L_Lib.001|Dupli|20
+    3300358: Reflector|reflector.pinR_L_Lib.001|Dupli|21
+    3300360: Reflector|reflector.pinS_L_Lib.001|Dupli|22
+    3300362: Reflector|reflector.pinT_L_Lib.001|Dupli|23
+    3300364: Reflector|reflector.pinU_L_Lib.001|Dupli|24
+    3300366: Reflector|reflector.pinV_L_Lib.001|Dupli|25
+    3300368: Reflector|reflector.pinW_L_Lib.001|Dupli|26
+    3300370: Reflector|reflector.pinX_L_Lib.001|Dupli|27
+    3300372: Reflector|reflector.pinY_L_Lib.001|Dupli|28
+    3300374: Reflector|reflector.pinZ_L_Lib.001|Dupli|29
+    3300376: Reflector|reflector.screw_0_L_Lib.001|Dupli|30
+    3300378: Reflector|reflector.screw_1_L_Lib.001|Dupli|31
+    3300380: Reflector|reflector.screw_2_L_Lib.001|Dupli|32
+    3300382: Reflector|reflector.screw_3_L_Lib.001|Dupli|33
+    3300384: Reflector|reflector.tube.big_L_Lib.001|Dupli|1
+    3300386: Reflector|reflector.tube.small_L_Lib.001|Dupli|2
+    3300388: Rotor.001|rotor.small_L_Lib.001|Dupli|0
+    3300390: Rotor.002|rotor.small_L_Lib.001|Dupli|0
+    3300392: Rotor.003|rotor.small_L_Lib.001|Dupli|0
+    3300394: Rotor.004|rotor.small_L_Lib.001|Dupli|0
+    3300396: Rotor.005|rotor.small_L_Lib.001|Dupli|0
+    3300398: Rotor.006|rotor.small_L_Lib.001|Dupli|0
+    3300400: Rotor.007|rotor.small_L_Lib.001|Dupli|0
+    3300402: Rotor.008|rotor.small_L_Lib.001|Dupli|0
+    3300404: Rotor.009|rotor.small_L_Lib.001|Dupli|0
+    3300406: Rotor.010|rotor.small_L_Lib.001|Dupli|0
+    3300408: Rotor.011|rotor.small_L_Lib.001|Dupli|0
+    3300410: Rotor.012|rotor.small_L_Lib.001|Dupli|0
+    3300412: Rotor.013|rotor.small_L_Lib.001|Dupli|0
+    3300414: Rotor.014|rotor.small_L_Lib.001|Dupli|0
+    3300416: Rotor|rotor.small_L_Lib.001|Dupli|0
+    3300418: switch low poly
+    4300000: switch low poly
+    4300002: Cylinder.005
+    4300004: Circle
+    4300006: B Low res
+    4300008: Circle.008
+    4300010: Reflector.002|reflector.cover.001_L_Lib.001|Dupli|0
+    4300012: Reflector.002|reflector.tube.big_L_Lib.001|Dupli|1
+    4300014: Reflector.002|reflector.tube.small_L_Lib.001|Dupli|2
+    4300016: Reflector.002|reflector.pinA_L_Lib.001|Dupli|4
+    4300018: Reflector.002|reflector.screw_0_L_Lib.001|Dupli|30
+    4300020: entry wheel.002|entrywheel_L_Lib.001|Dupli|0
+    4300022: entry wheel.002|entrywheel.contacts_L_Lib.001|Dupli|1
+    4300024: Rotor.010|rotor.small_L_Lib.001|Dupli|0
+    4300026: Circle.002
+    7400000: Armature|Cog full rotation
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
